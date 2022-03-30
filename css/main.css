@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  margin: 0rem;
+  margin: 0;
 }
 
 header {
@@ -33,7 +33,7 @@ header img {
 }
 
 header p {
-  margin: .5rem auto;
+  margin: 0 auto;
   font-size: 1.125rem;
 }
 
